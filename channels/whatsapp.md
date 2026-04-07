@@ -1,20 +1,20 @@
 # Channel: WHATSAPP
-*Compiled: 2026-04-04 02:30* `channel` `whatsapp`
+*Compiled: 2026-04-07 05:18* `channel` `whatsapp`
 
 ## Live Performance (All-time)
 
 | Metric | Value | Benchmark |
 |--------|-------|-----------|
-| Total Sent | 57,545 | — |
-| Delivered | 40,336.0 | N/A |
-| Delivery Rate | 70.1% | N/A |
-| Open / Read | 16,317.0 | — |
-| Open Rate | 40.5% | N/A (SMS) |
-| Sessions (clicks) | 2,735 | — |
-| Session Rate | 6.78% | N/A |
-| Bookings | 2,155 | — |
-| Booking Rate (of Sent) | 3.74% | N/A |
-| Session → Booking | 78.8% | — |
+| Total Sent | 0 | — |
+| Delivered | 0 | N/A |
+| Delivery Rate | N/A% | N/A |
+| Open / Read | 0 | — |
+| Open Rate | N/A% | N/A (SMS) |
+| Sessions (clicks) | 0 | — |
+| Session Rate | N/A% | N/A |
+| Bookings | 0 | — |
+| Booking Rate (of Sent) | N/A% | N/A |
+| Session → Booking | N/A% | — |
 
 ## Cost
 - Cost per message: ₹N/A

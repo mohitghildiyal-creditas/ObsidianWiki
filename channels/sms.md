@@ -1,24 +1,24 @@
 # Channel: SMS
-*Compiled: 2026-04-04 02:30* `channel` `sms`
+*Compiled: 2026-04-07 05:18* `channel` `sms`
 
 ## Live Performance (All-time)
 
 | Metric | Value | Benchmark |
 |--------|-------|-----------|
-| Total Sent | 5,501 | — |
-| Delivered | 3,079.0 | 92-96% |
-| Delivery Rate | 56.0% | 92-96% |
+| Total Sent | 0 | — |
+| Delivered | 0 | 92-96% |
+| Delivery Rate | N/A% | 92-96% |
 | Open / Read | 0 | — |
-| Open Rate | 0.0% | N/A (SMS) |
-| Sessions (clicks) | 2,735 | — |
-| Session Rate | 88.83% | 3-8% of delivered |
-| Bookings | 2,155 | — |
-| Booking Rate (of Sent) | 39.17% | 0.5-2% of sent |
-| Session → Booking | 78.8% | — |
+| Open Rate | N/A% | N/A (SMS) |
+| Sessions (clicks) | 0 | — |
+| Session Rate | N/A% | 3-8% of delivered |
+| Bookings | 0 | — |
+| Booking Rate (of Sent) | N/A% | 0.5-2% of sent |
+| Session → Booking | N/A% | — |
 
 ## Cost
 - Cost per message: ₹0.25
-- Cost per booking: ₹0.6
+- Cost per booking: ₹N/A
 
 ## Benchmarks (Industry Reference)
 - **Delivery Rate**: 92-96%

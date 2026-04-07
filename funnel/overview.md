@@ -1,27 +1,22 @@
 # Funnel Overview — IBL Credit Card Upgrade
-*Compiled: 2026-04-04 02:30* `funnel` `ibl-ccu`
+*Compiled: 2026-04-07 05:18* `funnel` `ibl-ccu`
 
 ## Full Funnel Breakdown
 
 | Stage | Campaign | Conv% | Organic | Conv% |
 |-------|----------|-------|---------|-------|
-| Sessions | 2,735 | — | 4,166 | — |
-| Clicked CTA | 5,536.0 | 202.4% | 8,424.0 | 202.2% |
-| Mobile Validated | 3,910.0 | 70.6% | 6,633.0 | 78.7% |
-| Login OTP Validated | 955 | 24.4% | 1,428 | 21.5% |
-| Consent OTP Validated | 0 | 0.0% | 0 | 0.0% |
-| Booked | 2,155 | N/A | 3,520 | N/A |
-| Approved | 15,705.0 | 728.8% | 25,612.0 | 727.6% |
+| Sessions | 0 | — | 0 | — |
+| Clicked CTA | 0 | N/A | 0 | N/A |
+| Mobile Validated | 0 | N/A | 0 | N/A |
+| Login OTP Validated | 0 | N/A | 0 | N/A |
+| Consent OTP Validated | 0 | N/A | 0 | N/A |
+| Booked | 0 | N/A | 0 | N/A |
+| Approved | 0 | N/A | 0 | N/A |
 
 ## Top Failure Reasons
 
 | Failure Type | Occurrences |
 |-------------|-------------|
-| API_failure | 11,570 |
-| Card_blocked | 9,722 |
-| Token_expired | 5,926 |
-| Fee_charge_fail | 3,932 |
-| Consent_fail | 3,850 |
 
 ## Funnel Stage Definitions
 - **1_Sent**: COUNT(DISTINCT AccountIdIndex) from response table — total customers targeted

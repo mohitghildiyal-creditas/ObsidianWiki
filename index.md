@@ -1,11 +1,12 @@
 # Analytics Agent — Wiki Index
-*Auto-maintained by wiki_compiler. Last updated: 2026-04-07 02:30*
+*Auto-maintained by wiki_compiler. Last updated: 2026-04-07 05:18*
 
 > This index is the agent's entry point. Read this first, then navigate to relevant articles.
 
 ## Anomalies
 - [Anomaly Report](anomalies/2026-04-03-report.md) —
 - [Anomaly Report](anomalies/2026-04-04-report.md) —
+- [Anomalies](anomalies/no-anomalies.md) —
 
 ## Campaigns
 - [Campaigns — 2025-10](campaigns/202510.md) —
