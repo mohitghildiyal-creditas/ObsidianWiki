@@ -1,5 +1,5 @@
 # Funnel Overview — IBL Credit Card Upgrade
-*Compiled: 2026-04-08 02:30* `funnel` `ibl-ccu`
+*Compiled: 2026-04-07 05:18* `funnel` `ibl-ccu`
 
 ## Full Funnel Breakdown
 
